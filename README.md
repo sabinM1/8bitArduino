@@ -5,7 +5,7 @@
 
 ## Demo
 
-[![Demo](https://j.gifs.com/3Qn1x9.gif)](https://j.gifs.com/3Qn1x9.gif)
+![Demo](https://github.com/sabinM1/8bitArduino/raw/master/demo.gif)
 
 ## Requirements
 - basic knowledge of bits and computers for understanding;
